@@ -1,0 +1,24 @@
+{
+    "task1": {
+                "UUID" : 1,
+                "Name" : "test 1",
+                "StartDate" : ["2020","10","13"],
+                "StartTime" : ["08","00"],
+                "Duration" : 40
+            },
+
+    "task2":{
+                "UUID" : 2,
+                "Name" : "test 2",
+                "StartDate" : ["2020","10","15"],
+                "StartTime" : ["10","00"],
+                "Duration" : 20
+            },
+    "task3":{
+                "UUID" : 3,
+                "Name" : "test 3",
+                "StartDate" : ["2020","10","16"],
+                "StartTime" : ["20","00"],
+                "Duration" : 120
+            }
+}
